@@ -5,3 +5,9 @@ Gitの練習をしています
 - git rm
 - git status
 - git diff
+
+- .gitignore
+  git管理外にするファイルを指定
+  - 自動生成されるファイル
+  - パスワードが記載されているファイル
+
